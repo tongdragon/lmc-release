@@ -1,25 +1,25 @@
 {
+  "release_notes": [
+    "自动发布版本 2.18.9"
+  ],
+  "version": "2.18.9",
   "exe_update": {
-    "file_type": "exe",
     "name": "LMC.exe",
-    "version": "2.18.8",
-    "sha256": "abb99df295329b54ec6d6a67ddf7a01ff27e4c7f65a32531894dc6d4b289cb97",
-    "url": "https://cdn.jsdelivr.net/gh/tongdragon/lmc-release@v2.18.8/dist/LMC.exe",
+    "version": "2.18.9",
+    "url": "https://cdn.jsdelivr.net/gh/tongdragon/lmc-release@v2.18.9/dist/LMC.exe",
+    "file_type": "exe",
+    "sha256": "46e16454c2b33004e36291b83526256bb01b77909f8d940f4d0b2d97447990f7",
     "size": 1952216
   },
-  "release_date": "2026-07-22",
-  "version": "2.18.8",
-  "release_notes": [
-    "自动发布版本 2.18.8"
-  ],
   "min_required_version": "2.15.0",
   "offline_update": {
+    "name": "lmc-offline-2.18.9.zip",
+    "version": "2.18.9",
+    "url": "https://ghproxy.net/https://github.com/tongdragon/lmc-release/releases/download/v2.18.9/lmc-offline-2.18.9.zip",
+    "tag": "v2.18.9",
     "file_type": "offline",
-    "name": "lmc-offline-2.18.8.zip",
-    "version": "2.18.8",
-    "tag": "v2.18.8",
-    "url": "https://ghproxy.net/https://github.com/tongdragon/lmc-release/releases/download/v2.18.8/lmc-offline-2.18.8.zip",
-    "sha256": "fe51ee100bf0ed8c2f1c52d76d309405f8652af80253dc024e470a18e4d9df91",
-    "size": 547883676
-  }
+    "sha256": "e4573a9ed237d9532a092ff59cfa79a74686e5488087e71dea881617caab19bf",
+    "size": 547929771
+  },
+  "release_date": "2026-07-23"
 }
